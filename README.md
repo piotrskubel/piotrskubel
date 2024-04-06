@@ -1,7 +1,6 @@
 ## Piotr Skubel
 
 ### Hobbyist programmer and data analyst with a passion for video games, meteorology and linguistics.
-![enter image description here](https://i.ibb.co/FYkYBzs/da05be81-0137-4587-a51f-f9e591faba96.jpg)
 
 Ever since I was a kid, I loved playing video games. But my hardware was always out of date, so I had to find other ways to enjoy them. Thus I started tinkering with servers and web technologies. Later on I was considering IT studies, but I ended up majoring in economics. During my career I always looked for opportunities to show my technical skills, even if I wasn't paid directly for them. In 2022, I decided to take my programming skills to the next level.
 
